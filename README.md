@@ -23,7 +23,7 @@ This Python script attempts to crack the password of an encrypted PDF file using
    ```bash
    pip install PyPDF2
    ```
-3. Save the script as `pdf_cracker.py` (or any preferred name).
+3. Save the script as `PassCrack.py` (or any preferred name).
 
 ## Usage
 1. Place the encrypted PDF file in the same directory as the script (or provide the full file path).
@@ -33,7 +33,7 @@ This Python script attempts to crack the password of an encrypted PDF file using
    ```
 3. Run the script:
    ```bash
-   python pdf_cracker.py
+   python PassCrack.py
    ```
 4. The script will:
    - Check if the PDF is encrypted.
