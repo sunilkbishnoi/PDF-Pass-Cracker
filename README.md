@@ -1,6 +1,3 @@
-Below is a simple README file tailored for the provided Python script. It includes basic information about the script's purpose, requirements, usage, and notes.
-
----
 
 # PDF Password Cracker
 
